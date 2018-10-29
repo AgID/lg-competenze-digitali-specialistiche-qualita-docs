@@ -122,7 +122,7 @@ alle dimensioni 2 e 3 e gli esempi di knowledge e skill sono presenti
 nella dimensione 4 del framework, le attitudini sono inserite in tutte e
 tre le dimensioni.
 
-.. image:: tre-dimensioni.png
+.. image:: media/tre-dimensioni.png
   :scale: 50 %
   :alt: Figura 1. European e-Competence Framework versione 3.0 visione di insieme.
 
@@ -218,7 +218,7 @@ accomuna tutti questi profili è lo schema tipo utilizzato per la
 catalogazione, con campi ben definiti, così come avviene similmente per
 la definizione del CV in formato europeo Europass.
 
-.. image:: albero.png
+.. image:: media/albero.png
   :scale: 50 %
   :alt: Figura 2. Albero genealogico dei profili ICT.
 
