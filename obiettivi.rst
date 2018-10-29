@@ -37,7 +37,7 @@ concreto potrebbe corrispondere anche ad una pluralità di soggetti con
 compiti differenziati) è denominato *outsourcer*.
 
 Rispetto ai manuali della qualità ICT, come evidenziato nel
-“Manuale 2 - “Strategie d’acquisizione”, l’esternalizzazione di attività
+“Manuale 2 - Strategie d’acquisizione”, l’esternalizzazione di attività
 critiche connesse all’ICT, è un processo che, oltre a comportare
 rilevanti rischi strategici, economici ed operativi, produce notevoli
 ripercussioni sulla struttura organizzativa del Cliente, la quale, nel
@@ -45,7 +45,7 @@ delegare all’outsourcer le attività operative, deve necessariamente
 svolgerne o potenziarne di nuove, orientate al governo dell’ICT (si veda
 a tal proposito il Manuale “Organizzazione della funzione ICT”).
 
-Le Linee guida, tramite il Manuale 4 – “Dizionario delle forniture ICT”,
+Le Linee guida, tramite il "Manuale 4 – Dizionario delle forniture ICT”,
 forniscono un modello operativo per la costruzione di contratti nei
 quali il Fornitore agisce nell’ambito di un’ampia delega operativa e nel
 rispetto di un prefissato insieme di livelli di servizio, finalizzati a
@@ -139,7 +139,7 @@ offerti dallo strumento “profilo di competenza”.
 Acronimi e abbreviazioni
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**AgID** Agenzia per l'Italia Digitale
+**AGID** Agenzia per l'Italia Digitale
 
 **ANPAL** Agenzia Nazionale Politiche Attive Lavoro
 
