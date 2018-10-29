@@ -171,8 +171,8 @@ manuale per definire i profili ricercati.
 
 Per la contrattualizzazione profili non specialistici, ma comunque
 operanti nell’ICT, sarà tuttavia possibile prendere in considerazione,
-come riferimento generico, il modello europeo DigCOMP 2.1 [9]_, di cui
-AgID ha curato la traduzione ufficiale in lingua italiana [10]_.
+come riferimento generico, il modello europeo DigCOMP 2.1, di cui
+AgID ha curato la traduzione ufficiale in lingua italiana.
 
 Definizione del capitolato tecnico
 """""""""""""""""""""""""""""""""""""""""""""
@@ -356,7 +356,7 @@ individuo nell’ambito di diversi contesti di apprendimento. EUROPASS
 fornisce un insieme di documenti, istruzioni per la compilazione e
 esempi precompilati, accessibili tramite il sito della comunità europea
 sotto riportato, il quale fornisce altresì assistenza on line alla
-compilazione [11]_.
+compilazione.
 
 “Europass Curriculum Vitae” è un modello standardizzato che consente di
 descrivere, sulla base di un formato condiviso e riconosciuto in tutta
@@ -452,7 +452,7 @@ orientarsi nell’acquisizione di risorse utilizzando come riferimento:
 A titolo esemplificativo, nel mese di ottobre 2017 L’Agenzia per
 l’Italia Digitale ha avviato la ricerca 72 profili professionali per
 supportare le attività progettuali destinate alla trasformazione
-digitale della Pubblica amministrazione italiana [12]_.
+digitale della Pubblica amministrazione italiana.
 
 Definizione di attività formative
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
