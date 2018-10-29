@@ -568,10 +568,3 @@ terze parti.
 
 .. [14]
    http://professioni.istat.it/cp2011/ 
-
-.. |image0| image:: media/image1.png
-   :width: 6.69306in
-   :height: 8.02222in
-.. |image1| image:: media/image2.png
-   :width: 6.6875in
-   :height: 4.8125in
