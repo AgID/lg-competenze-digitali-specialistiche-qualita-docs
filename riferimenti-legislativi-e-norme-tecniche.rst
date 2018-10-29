@@ -98,10 +98,7 @@ articolo disegnano il sistema pubblico nazionale di certificazione delle
 competenze, mentre, il D.Lgs. 16 gennaio 2013 n. 13 ne disciplina
 l’attuazione.
 
-Il D.Lgs. n. 13/2013 costituisce quindi il “tassello” fondamentale per
-valorizzare il diritto delle persone all’apprendimento permanente, in
-un’ottica personale, sociale e occupazionale. Il decreto si articola in
-due linee di intervento prioritarie:
+Il `D.Lgs. n. 13/2013 <www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-01-16;13!vig=`_ costituisce quindi il “tassello” fondamentale per valorizzare il diritto delle persone all’apprendimento permanente, in un’ottica personale, sociale e occupazionale. Il decreto si articola in due linee di intervento prioritarie:
 
 a) la costituzione del repertorio nazionale dei titoli di istruzione e
    formazione e delle qualificazioni professionali;
@@ -219,7 +216,7 @@ Norme tecniche di riferimento
    eGeographic Knowledge Enabler.
 
 .. [1]
-   DECRETO LEGISLATIVO 9 novembre 2007, n. 206 “Attuazione della
+   Decreto legislativo 9 novembre 2007, n. 206 “Attuazione della
    direttiva 2005/36/CE relativa al riconoscimento delle qualifiche
    professionali, nonché della direttiva 2006/100/CE che adegua
    determinate direttive sulla libera circolazione delle persone a
