@@ -528,7 +528,7 @@ seconda generazione:
    professioni è collegata alla Isco 08 (International Standard
    Classification of Occupation), che rappresenta la classificazione di
    riferimento in Europa per la rappresentazione e lo scambio dei dati
-   sulle professioni. È disponibile una versione navigabile [14]_ a cura
+   sulle professioni. È disponibile una versione navigabile a cura
    dell’Istat.
 
 Tale mappatura è da considerarsi a titolo esemplificativo, e non
