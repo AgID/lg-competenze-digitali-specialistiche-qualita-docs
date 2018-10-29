@@ -29,3 +29,11 @@ successive).
    :maxdepth: 3
    :numbered:
    :hidden:
+
+   generalità-del-documento
+   obiettivi
+   riferimenti-legislativi-e-norme-tecniche
+   metodologia-di-lavoro
+   profili-di-competenza
+   utilizzo-profili-di-competenza
+   appendici
