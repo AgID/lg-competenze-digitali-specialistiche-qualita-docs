@@ -217,9 +217,7 @@ selezione. In particolare, a titolo di esempio, il capitolato potrebbe:
 
 -  richiedere particolari titoli di studio o formativi, ovvero
    attestazioni professionali rilasciate da associazioni di cui alla
-   Legge n. 4/2013, certificazioni specialistiche di prodotto e/o
-   certificazioni rispetto a norme UNI nonché rispetto al D.Lgs. n.
-   13/2013;
+   `Legge n. 4/2013 <www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-01-14;4!vig=>`_ , certificazioni specialistiche di prodotto e/o certificazioni rispetto a norme UNI nonché rispetto al `D.Lgs. n.13/2013 <http://www.gazzettaufficiale.it/eli/id/2018/01/25/18A00411/sg>`_ ;
 
 -  un’esperienza consolidata su aspetti metodologici o tecnologici,
    specifici della fornitura da realizzare;
