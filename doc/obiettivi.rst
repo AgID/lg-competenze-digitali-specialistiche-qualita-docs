@@ -36,7 +36,7 @@ esternalizzazione (o outsourcing), ed il Fornitore (che nel caso
 concreto potrebbe corrispondere anche ad una pluralità di soggetti con
 compiti differenziati) è denominato *outsourcer*.
 
-Rispetto ai manuali della qualità ICT [1]_, come evidenziato nel
+Rispetto ai manuali della qualità ICT, come evidenziato nel
 “Manuale 2 - “Strategie d’acquisizione”, l’esternalizzazione di attività
 critiche connesse all’ICT, è un processo che, oltre a comportare
 rilevanti rischi strategici, economici ed operativi, produce notevoli
