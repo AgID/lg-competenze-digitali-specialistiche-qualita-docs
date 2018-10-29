@@ -524,49 +524,28 @@ terze parti.
 +-----------------------+-----------------------+-----------------------+
 
 .. [1]
-   `http://www.agid.gov.it/agenzia/valutazione-e-monitoraggio/manuali-ict <http://www.agid.gov.it/agenzia/valutazione-e-monitoraggio/manuali-ict>`__
+  http://www.agid.gov.it/agenzia/valutazione-e-monitoraggio/manuali-ict
 
 .. [2]
-   DECRETO LEGISLATIVO 9 novembre 2007, n. 206 “Attuazione della
-   direttiva 2005/36/CE relativa al riconoscimento delle qualifiche
-   professionali, nonché della direttiva 2006/100/CE che adegua
-   determinate direttive sulla libera circolazione delle persone a
-   seguito dell'adesione di Bulgaria e Romania” (GU n.261 del 9-11-2007
-   - Suppl. Ordinario n. 228)
+   `Decreto legislativo 9 novembre 2007, n. 206 <www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2007-11-09;206!vig=>`_    “Attuazione della direttiva 2005/36/CE relativa al riconoscimento delle qualifiche professionali, nonché della direttiva 2006/100/CE che adegua determinate direttive sulla libera circolazione delle persone a seguito dell'adesione di Bulgaria e Romania” (GU n.261 del 9-11-2007 - Suppl. Ordinario n. 228)
 
 .. [3]
-   DECRETO DEL PRESIDENTE DELLA REPUBBLICA 7 agosto 2012, n. 137
-   “Regolamento recante riforma degli ordinamenti professionali, a norma
-   dell'articolo 3, comma 5, del decreto legge 13 agosto 2011, n. 138,
-   convertito, con modificazioni, dalla legge 14 settembre 2011, n. 148
-   (12G0159)” (GU n.189 del 14-8-2012).
+   `Decreto del Presidente della Repubblica 7 agosto 2012, n. 137 <www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2012-08-07;137!vig=>`_ “Regolamento recante riforma degli ordinamenti professionali, a norma dell'articolo 3, comma 5, del decreto legge 13 agosto 2011, n. 138, convertito, con modificazioni, dalla legge 14 settembre 2011, n. 148 (12G0159)” (GU n.189 del 14-8-2012).
 
 .. [4]
-   DECRETO DEL PRESIDENTE DELLA REPUBBLICA 5 giugno 2001, n. 328
-   “Modifiche ed integrazioni della disciplina dei requisiti per
-   l'ammissione all'esame di Stato e delle relative prove per
-   l'esercizio di talune professioni, nonché della disciplina dei
-   relativi ordinamenti” (GU n.190 del 17-8-2001 - Suppl. Ordinario n.
-   212).
+   `Decreto del Presidente della Repubblica 5 giugno 2001, n. 328 <www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2001-06-05;328!vig=>`_ “Modifiche ed integrazioni della disciplina dei requisiti per l'ammissione all'esame di Stato e delle relative prove per l'esercizio di talune professioni, nonché della disciplina dei relativi ordinamenti” (GU n.190 del 17-8-2001 - Suppl. Ordinario n. 212).
 
 .. [5]
-   LEGGE 14 gennaio 2013, n. 4 "Disposizioni in materia di professioni
-   non organizzate." (GU Serie Generale n.22 del 26-1-2013)
+   `Legge 14 gennaio 2013, n. 4 <www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-01-14;4!vig=>`_ "Disposizioni in materia di professioni non organizzate." (GU Serie Generale n.22 del 26-1-2013)
 
 .. [6]
-   `http://www.uni.com/index.php?option=com_content&view=article&id=1621&Itemid=1491 <http://www.uni.com/index.php?option=com_content&view=article&id=1621&Itemid=1491>`__
+   http://www.uni.com/index.php?option=com_content&view=article&id=1621&Itemid=1491
 
 .. [7]
-   DECRETO LEGISLATIVO 16 gennaio 2013, n. 13 "Definizione delle norme
-   generali e dei livelli essenziali delle prestazioni per
-   l'individuazione e validazione degli apprendimenti non formali e
-   informali e degli standard minimi di servizio del sistema nazionale
-   di certificazione delle competenze, a norma dell'articolo 4, commi 58
-   e 68, della legge 28 giugno 2012, n. 92." (GU Serie Generale n.39 del
-   15-2-2013)
+   `Decreto legislativo 16 gennaio 2013, n. 13 <www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-01-16;13!vig=>`__ "Definizione delle norme generali e dei livelli essenziali delle prestazioni per l'individuazione e validazione degli apprendimenti non formali e informali e degli standard minimi di servizio del sistema nazionale di certificazione delle competenze, a norma dell'articolo 4, commi 58 e 68, della legge 28 giugno 2012, n. 92." (GU Serie Generale n.39 del 15-2-2013)
 
 .. [8]
-   MINISTERO DEL LAVORO E DELLE POLITICHE SOCIALI. DECRETO 8 gennaio
+   Ministero del lavoro e delle politiche sociali. Decreto 8 gennaio
    2018. Istituzione del Quadro nazionale delle qualificazioni
    rilasciate nell'ambito del Sistema nazionale di certificazione delle
    competenze di cui al decreto legislativo 16 gennaio 2013, n. 13. (GU
@@ -579,16 +558,16 @@ terze parti.
    http://www.agid.gov.it/sites/default/files/digcomp2-1_ita.pdf
 
 .. [11]
-   `http://europass.cedefop.europa.eu/it/home <http://europass.cedefop.europa.eu/it/home>`__ 
+   http://europass.cedefop.europa.eu/it/home
 
 .. [12]
-   `http://www.agid.gov.it/notizie/2017/10/17/agid-cerca-72-collaboratori-lattuazione-del-piano-triennale-crescita-digitale <http://www.agid.gov.it/notizie/2017/10/17/agid-cerca-72-collaboratori-lattuazione-del-piano-triennale-crescita-digitale>`__
+   http://www.agid.gov.it/notizie/2017/10/17/agid-cerca-72-collaboratori-lattuazione-del-piano-triennale-crescita-digitale
 
 .. [13]
-   `http://www.anpal.gov.it/Notizie/Pagine/Avviso-pubblico-per-soggetti-attuatori-dell-intervento-Competenze-ICT-per-i-giovani-del-Mezzogiorno.aspx <http://www.anpal.gov.it/Notizie/Pagine/Avviso-pubblico-per-soggetti-attuatori-dell-intervento-Competenze-ICT-per-i-giovani-del-Mezzogiorno.aspx>`__
+   http://www.anpal.gov.it/Notizie/Pagine/Avviso-pubblico-per-soggetti-attuatori-dell-intervento-Competenze-ICT-per-i-giovani-del-Mezzogiorno.aspx
 
 .. [14]
-   `http://professioni.istat.it/cp2011/ <http://professioni.istat.it/cp2011/>`__
+   http://professioni.istat.it/cp2011/ 
 
 .. |image0| image:: media/image1.png
    :width: 6.69306in
