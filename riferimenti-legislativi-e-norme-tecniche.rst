@@ -235,7 +235,7 @@ Norme tecniche di riferimento
    `Decreto legislativo 16 gennaio 2013, n. 13 <www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2013-01-16;13!vig=>`__ "Definizione delle norme generali e dei livelli essenziali delle prestazioni per l'individuazione e validazione degli apprendimenti non formali e informali e degli standard minimi di servizio del sistema nazionale di certificazione delle competenze, a norma dell'articolo 4, commi 58 e 68, della legge 28 giugno 2012, n. 92." (GU Serie Generale n.39 del 15-2-2013)
 
 .. [7]
-   inistero del lavoro e delle politiche sociali. Decreto 8 gennaio
+   Ministero del lavoro e delle politiche sociali. Decreto 8 gennaio
    2018. Istituzione del Quadro nazionale delle qualificazioni
    rilasciate nell'ambito del Sistema nazionale di certificazione delle
    competenze di cui al decreto legislativo 16 gennaio 2013, n. 13. (GU
