@@ -30,10 +30,10 @@ successive).
    :numbered:
    :hidden:
 
-   generalità-del-documento
-   obiettivi
-   riferimenti-legislativi-e-norme-tecniche
-   metodologia-di-lavoro
-   profili-di-competenza
-   utilizzo-profili-di-competenza
-   appendici
+   generalità-del-documento.rst
+   obiettivi.rst
+   riferimenti-legislativi-e-norme-tecniche.rst
+   metodologia-di-lavoro.rst
+   profili-di-competenza.rst
+   utilizzo-profili-di-competenza.rst
+   appendici.rst
