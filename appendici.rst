@@ -16,10 +16,10 @@ Mappa delle competenze professionali ICT europee (e-CF 3.0)
 Si riporta di seguito la mappatura delle competenze E-CF 3.0. Per
 approfondimenti si rimanda alla norma UNI EN 16234-1.
 
-A. PLAN
+PLAN
 """""""""
 
-**A.1 Allineamento Strategie dei Sistemi Informativi e di Business** 
+**Allineamento Strategie dei Sistemi Informativi e di Business** 
 
 
 Anticipa i requisiti di business di lungo termine, favorisce il
@@ -29,14 +29,14 @@ linea con la politica aziendale e garantisce un ambiente sicuro. Prende
 decisioni strategiche sulla politica IS dell’impresa, comprese le
 strategie di sourcing.
 
-**A.2. Gestione dei Livelli di Servizio**
+**Gestione dei Livelli di Servizio**
 
 Definisce, valida e rende applicabile il service level agreement (SLA) e
 i contratti su cui si fonda per i servizi offerti. Negozia i livelli di
 performance del servizio tenendo conto delle necessità e delle capacità
 degli stakeholder clienti e del business.
 
-**A.3 Sviluppo del Business Plan**
+**Sviluppo del Business Plan**
 
 Indirizza l’ideazione e la struttura di un business o di un piano di
 prodotto compresa l’identificazione di approcci alternativi e le
@@ -47,7 +47,7 @@ con le strategie di business e tecnologiche. Comunica e condivide il
 Business Plan con gli stakeholder più importanti e indirizza gli
 interessi politici, finanziari, e organizzativi.
 
-**A.4 Pianificazione di Prodotto o di Servizio**
+**Pianificazione di Prodotto o di Servizio**
 
 Analizza e definisce lo status corrente e quello obiettivo. Stima
 l’efficacia dei costi, i punti di rischio, le opportunità, i punti di
@@ -59,7 +59,7 @@ ulteriori requisiti di documentazione. Specifica il corretto trattamento
 dei prodotti, compresi gli aspetti legali correlati alla normativa
 vigente.
 
-**A.5 Progettazione di Architetture**
+**Progettazione di Architetture**
 
 Specifica, affina, aggiorna e rende disponibile un approccio formale
 all’implementazione delle soluzioni, necessario per sviluppare e gestire
@@ -69,7 +69,7 @@ Assicura l’interoperabilità, la scalabilità, l’usabilità e la sicurezza.
 Mantiene l’allineamento tra l’evoluzione del business e gli sviluppi
 tecnologici.
 
-**A.6. Progettazione di Applicazioni**
+**Progettazione di Applicazioni**
 
 Analizza, specifica, aggiorna e rende disponibile un modello per
 implementare le applicazioni in conformità con la politica e le esigenze
@@ -82,14 +82,14 @@ fruibilità e la sicurezza. Identifica un Framework di riferimento comune
 per validare i modelli con gli utenti rappresentativi, sulla base dei
 modelli di sviluppo (es. l’approccio iterativo).
 
-**A.7 Monitoraggio dei Trend tecnologici**
+**Monitoraggio dei Trend tecnologici**
 
 Esplora gli ultimi sviluppi tecnologici dell’ICT per comprendere
 l’evoluzione della tecnologia. Concepisce soluzioni innovative per
 l’integrazione di nuove tecnologie nei prodotti, applicazioni e servizi
 esistenti o per la creazione di nuove soluzioni.
 
-**A.8. Sviluppo Sostenibile**
+**Sviluppo Sostenibile**
 
 Stima l’impatto delle soluzioni ICT in termini di eco responsabilità
 incluso il consumo di energia. Consiglia gli stakeholder business e ICT
@@ -97,7 +97,7 @@ sulle alternative sostenibili coerenti con la strategia di business.
 Applica una politica ICT degli acquisti e delle vendite che soddisfi le
 eco-responsabilità.
 
-**A.9. Innovazione**
+**Innovazione**
 
 Escogita soluzioni creative per fornire nuovi concetti, idee, prodotti o
 servizi. Adotta un approccio mentale innovativo e aperto allo scopo di
@@ -105,10 +105,10 @@ prefigurare il modo di sfruttare i progressi tecnologici per soddisfare
 le esigenze del business/della società o identificare la direzione per
 la ricerca.
 
-B. BUILD
+BUILD
 """""""""
 
-**B.1. Sviluppo di Applicazioni**
+**Sviluppo di Applicazioni**
 
 Adatta il processo di progettazione delle applicazioni per sviluppare
 un’applicazione personalizzata e conforme alle esigenze del cliente.
@@ -120,7 +120,7 @@ riconfigurazione di componenti esistenti. Ottimizza efficienza, costi e
 qualità. Convalida i risultati con gli utenti rappresentativi, integra e
 realizza la soluzione complessiva.
 
-**B.2. Integrazione dei Componenti**
+**Integrazione dei Componenti**
 
 Installa hardware, software o componenti di sottosistema in un sistema
 esistente o proposto. Si conforma ai processi e alle procedure definite
@@ -130,7 +130,7 @@ assicurare l’integrità, l’interoperabilità e la sicurezza delle
 informazioni. Verifica le performance del sistema e garantisce la
 validazione e la documentazione dell’esito favorevole dell’integrazione.
 
-**B.3. Testing**
+**Testing**
 
 Costruisce ed esegue procedure di test sistematico per i sistemi ICT o
 per i requisiti di usabilità del cliente per stabilire la conformità con
@@ -141,7 +141,7 @@ sicurezza, usabilità, performance, affidabilità e compatibilità. Produce
 i documenti e i report che danno evidenza dei requisiti di
 certificazione.
 
-**B.4. Rilascio (deployment) della Soluzione**
+**Rilascio (deployment) della Soluzione**
 
 Seguendo standard generali predefiniti di esercizio realizza gli
 interventi necessari pianificati per implementare la soluzione, tra cui
@@ -154,7 +154,7 @@ operante all’utente e completa la documentazione registrando tutte le
 informazioni rilevanti, compreso gli indirizzi delle apparecchiature, i
 dati di configurazione e di performance.
 
-**B.5. Produzione della Documentazione**
+**Produzione della Documentazione**
 
 Produce documenti che descrivono prodotti, servizi, componenti o
 applicazioni conformi con i requisiti relativi alla documentazione.
@@ -164,7 +164,7 @@ Garantisce che le funzioni e le caratteristiche siano documentate in un
 modo appropriato. Garantisce che i documenti esistenti siano validi e
 aggiornati.
 
-**B.6. Ingegneria dei Sistemi**
+**Ingegneria dei Sistemi**
 
 Ingegnerizza il software e/o i componenti hardware per soddisfare le
 esigenze di soluzioni quali specifiche, costi, qualità, tempi,
@@ -174,10 +174,10 @@ componenti e le interfacce richieste. Costruisce modelli di struttura di
 sistema e conduce simulazioni di comportamento del sistema. Esegue test
 di unità e di sistema per garantire la conformità ai requisiti.
 
-C. RUN
+RUN
 """""""""
 
-**C.1. Assistenza all’Utente**
+**Assistenza all’Utente**
 
 Risponde alle richieste e ai problemi dell’utente; registra le
 informazioni rilevanti. Risolve o scala gli incidenti e ottimizza le
@@ -185,7 +185,7 @@ performance del sistema rispettando i livelli di servizio predefiniti
 (SLA). Sa come effettuare il monitoraggio sugli esiti della soluzione e
 la risultante customer satisfaction.
 
-**C.2. Supporto alle modifiche/evoluzioni del sistema**
+**Supporto alle modifiche/evoluzioni del sistema**
 
 Implementa e guida l’evoluzione di una soluzione ICT. Controlla e
 schedula in modo efficiente le modifiche software o hardware per
@@ -195,7 +195,7 @@ aderisce ai service level agreement (SLA) definiti. Garantisce
 conformità e il rispetto delle procedure di sicurezza delle
 informazioni.
 
-**C.3. Erogazione del Servizio**
+**Erogazione del Servizio**
 
 Garantisce l’erogazione dei servizi in conformità con i livelli di
 servizio stabiliti (SLA). Opera in modo proattivo per garantire
@@ -206,7 +206,7 @@ la manutenzione degli strumenti di monitoraggio e di gestione (es.
 Script, Procedure...). Mantiene i servizi dei sistemi informativi.
 Prende misure proattive.
 
-**C.4. Gestione del Problema**
+**Gestione del Problema**
 
 Identifica e risolve le cause degli incidenti. Adotta un approccio
 proattivo alle cause principali di problemi ICT. Effettua il deployment
@@ -214,10 +214,10 @@ di un sistema di conoscenza basato sulla ricorrenza di errori comuni.
 Risolve o scala gli incidenti. Ottimizza le performance di sistemi e
 componenti.
 
-D. ENABLE
+ENABLE
 """"""""""
 
-**D.1. Sviluppo della Strategia per la Sicurezza Informatica**
+**Sviluppo della Strategia per la Sicurezza Informatica**
 
 Definisce e rende applicabile formalmente la strategia, gli obiettivi e
 la cultura organizzativa al fine di mantenere la sicurezza e la difesa
@@ -228,7 +228,7 @@ e delle responsabilità. Usa gli standard definiti per determinare gli
 obiettivi per l’integrità, la disponibilità e la privacy delle
 informazioni.
 
-**D.2. Sviluppo della Strategia della Qualità ICT**
+**Sviluppo della Strategia della Qualità ICT**
 
 Definisce, migliora e perfeziona una strategia formale per soddisfare le
 aspettative e migliorare le performance del business cliente
@@ -239,7 +239,7 @@ standard definiti per formulare gli obiettivi di qualità della gestione
 del servizio, del prodotto e del processo. Identifica le responsabilità
 di gestione della qualità ICT.
 
-**D.3. Fornitura dei servizi di Formazione**
+**Fornitura dei servizi di Formazione**
 
 Definisce e implementa una politica di formazione ICT per indirizzare i
 fabbisogni e i gap delle competenze dell’organizzazione. Struttura,
@@ -248,7 +248,7 @@ attraverso un processo di feedback e attua un continuo miglioramento.
 Adatta i piani di formazione per indirizzare il cambiamento della
 domanda.
 
-**D.4. Acquisti**
+**Acquisti**
 
 Applica una procedura consistente per gli approvvigionamenti,
 comprendente il deployment dei seguenti sotto-processi: specifiche dei
@@ -260,7 +260,7 @@ l’intero processo di approvvigionamento sia adatto allo scopo, aggiunga
 valore al business dell’organizzazione e che sia conforme a norme e
 requisiti legali.
 
-**D.5. Sviluppo dell’offerta**
+**Sviluppo dell’offerta**
 
 Sviluppa offerte tecniche per soddisfare i requisiti delle soluzioni per
 i clienti e le mette a disposizione del personale delle vendite con una
@@ -269,7 +269,7 @@ l’impatto ambientale. Collabora con i colleghi per allineare la
 soluzione prodotto/servizio con la capacità di delivery delle
 organizzazioni.
 
-**D.6. Gestione del Canale di Vendita**
+**Gestione del Canale di Vendita**
 
 Sviluppa la strategia per gestire i punti vendita delle terze parti.
 Assicura le performance commerciali ottimali del canale value-added
@@ -279,7 +279,7 @@ copertura geografica e il settore industriale su cui ingaggiare i VAR e
 i programmi di incentivazione per raggiungere i risultati di vendita
 premianti.
 
-**D.7. Gestione delle Vendite**
+**Gestione delle Vendite**
 
 Guida l’ottenimento dei risultati delle vendite attraverso
 l’introduzione di una strategia delle vendite. Dimostra il valore
@@ -291,7 +291,7 @@ approccio sistematico all’intero processo delle vendite, comprensivo di:
 comprensione dei fabbisogni del cliente, previsioni, valutazione delle
 potenzialità, tattiche di negoziazione e finalizzazione delle vendite.
 
-**D.8. Gestione del Contratto**
+**Gestione del Contratto**
 
 Organizza e negozia il contratto in accordo con i processi
 organizzativi. Assicura che i deliverables del fornitore siano forniti
@@ -303,7 +303,7 @@ Valuta e indirizza la conformità del fornitore rispetto agli standard
 relativi agli aspetti legali, della salute e della sicurezza. Persegue
 attivamente una comunicazione regolare con il fornitore.
 
-**D.9. Sviluppo del Personale**
+**Sviluppo del Personale**
 
 Diagnostica le competenze individuali e di gruppo, identificando il
 fabbisogno di skill e gli skill gap. Esamina le opzioni di formazione e
@@ -311,7 +311,7 @@ sviluppo e seleziona l’appropriata metodologia tenendo conto delle
 necessità degli individui e del business. Prepara e /o addestra
 individui e team per indirizzare i fabbisogni di apprendimento.
 
-**D.10. Gestione dell’Informazione e della Conoscenza**
+**Gestione dell’Informazione e della Conoscenza**
 
 Identifica e gestisce informazioni strutturate e non strutturate e
 considera le politiche sulla distribuzione dell’informazione. Crea la
@@ -321,7 +321,7 @@ strumenti appropriati che devono essere diffusi per creare, estrarre,
 mantenere, rinnovare e diffondere la conoscenza del business al fine di
 capitalizzare il patrimonio informativo.
 
-**D.11. Identificazione dei Fabbisogni**
+**Identificazione dei Fabbisogni**
 
 Ascolta attivamente i clienti interni/esterni, articola e chiarisce le
 loro esigenze. Gestisce i rapporti con tutti gli stakeholder per
@@ -331,7 +331,7 @@ contestuale nella progettazione di un sistema user centered. Consiglia
 al cliente la scelta appropriata. Agisce attivamente impegnandosi nel
 processo di implementazione o configurazione della soluzione scelta.
 
-**D.12. Marketing Digitale**
+**Marketing Digitale**
 
 Conosce i princìpi fondamentali del marketing digitale. Distingue tra
 gli approcci tradizionali e digitali. Apprezza e conosce la gamma di
@@ -344,7 +344,7 @@ tiene conto nell’attuazione della strategia di marketing.
 E. MANAGE
 """"""""""
 
-**E.1. Formulazione delle Previsioni**
+**Formulazione delle Previsioni**
 
 Conosce i princìpi fondamentali del marketing digitale. Distingue tra
 gli approcci tradizionali e digitali. Apprezza e conosce la gamma di
@@ -354,7 +354,7 @@ utilizzando i mezzi più efficaci a disposizione. Conosce le
 problematiche della protezione dei dati e le questioni di privacy e ne
 tiene conto nell’attuazione della strategia di marketing.
 
-**E.2. Gestione del Progetto e del Portfolio**
+**Gestione del Progetto e del Portfolio**
 
 Implementa i piani per un programma di cambiamento. Pianifica e dirige
 un singolo progetto ICT od un portfolio di progetti per assicurare il
@@ -368,14 +368,14 @@ Consegna progetti nei tempi previsti, con il budget previsto e conformi
 ai requisiti originari. Crea produce e mantiene i documenti per
 facilitare il monitoraggio dell’avanzamento del progetto.
 
-**E.3. Gestione del Rischio**
+**Gestione del Rischio**
 
 Implementa la gestione del rischio dei sistemi informativi attraverso
 l’applicazione delle politiche e procedure definite dall’azienda per il
 risk management. Valuta il rischio per il business dell’organizzazione e
 documenta rischi potenziali e piani di prevenzione.
 
-**E.4. Gestione delle Relazioni**
+**Gestione delle Relazioni**
 
 Stabilisce e mantiene relazioni di business positive con clienti e
 fornitori (interni o esterni) conformi ai processi organizzativi.
@@ -385,7 +385,7 @@ comunicazioni della filiera della fornitura. Assicura che le esigenze,
 preoccupazioni o lamentele del cliente/partner/fornitore siano comprese
 e soddisfatte in accordo con la politica dell’organizzazione.
 
-**E.5. Miglioramento dei processi**
+**Miglioramento dei processi**
 
 Misura l’efficacia dei processi ICT esistenti. Ricerca e paragona il
 disegno dei processi ICT da una varietà di fonti. Segue una metodologia
@@ -393,7 +393,7 @@ sistematica per valutare, progettare e implementare processi o
 cambiamenti tecnologici finalizzati a benefici di business misurabili.
 Valuta potenziali controindicazioni del cambiamento di processo.
 
-**E.6. Gestione della Qualità ICT**
+**Gestione della Qualità ICT**
 
 Implementa la politica di qualità ICT per mantenere ed aumentare la
 fornitura di prodotti e servizi. Pianifica e definisce indicatori per
@@ -401,7 +401,7 @@ gestire la qualità per quanto riguarda la strategia ICT. Controlla gli
 indicatori di performance della qualità e ne raccomanda un accrescimento
 per indurre un miglioramento continuo della qualità.
 
-**E.7. Gestione del Cambiamento del Business**
+**Gestione del Cambiamento del Business**
 
 Valuta le implicazioni di nuove soluzioni ICT. Definisce i requisiti e
 quantifica i benefici di business. Gestisce la diffusione del
@@ -410,7 +410,7 @@ Mantiene la continuità del business e dei processi per la durata del
 cambiamento, controllandone l’impatto, prendendo le eventuali misure
 correttive e mettendone a punto l’approccio.
 
-**E.8. Gestione della Sicurezza dell’Informazione**
+**Gestione della Sicurezza dell’Informazione**
 
 Implementa la politica della sicurezza dell’informazione. Controlla e
 prende iniziative a fronte di intrusioni, frodi e buchi o falle della
@@ -419,7 +419,7 @@ e gestiti per i dati e le informazioni aziendali. Rivede gli incidenti
 sulla sicurezza e fornisce raccomandazioni per applicare strategia e
 policy specifiche per un miglioramento continuo della sicurezza fornita.
 
-**E.9. Governance dei Sistemi Informativi**
+**Governance dei Sistemi Informativi**
 
 Definisce, realizza e controlla la gestione dei sistemi informativi in
 linea con i vincoli di business. Tiene conto di tutti i parametri
